@@ -1,4 +1,4 @@
-# Coin Project :D
+# Coin Project 🪙
 
 ## Project setup
 ```
